@@ -46,6 +46,5 @@ function addBtnBorrar(){
     
     return deleteBtn;
 }
-// const mi_pizza2 = document.getElementById('pizza2')
-// const mi_pizza3 = document.getElementById('pizza3')
+
 

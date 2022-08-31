@@ -1,4 +1,15 @@
 #contenedor{
-    align-content: center;
+    width: 90%;
+    margin: 20px;
     color:blueviolet;
+    padding: 5px;
+    border: 1px solid black;
+    display: block;/* por defecto */
+}
+
+li p {
+    background-color: aquamarine;
+    margin: 5px;
+    display: inline-block;
+    width: 90%;
 }
